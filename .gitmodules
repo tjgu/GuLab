@@ -3,4 +3,4 @@
 	url = git@github.com:tjgu/AML-epitranscriptomic-biomarker-private.git
 [submodule "AML-scRNAediting-private"]
 	path = AML-scRNAediting-private
-	url = git@github.com:tjgu/AML-scRNAediting-private.git
+	url = git@github.com:tjgu/AML-scRNAediting.git
