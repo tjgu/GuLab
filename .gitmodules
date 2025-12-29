@@ -1,5 +1,5 @@
-[submodule "epitranscriptomic_risk_biomarker_discovery_AML"]
-	path = epitranscriptomic_risk_biomarker_discovery_AML
+[submodule "AML-miRNA-RNA-biomarker-discovery"]
+	path = AML-miRNA-RNA-biomarker-discovery
 	url = git@github.com:tjgu/AML-epitranscriptomic-biomarker-private.git
 [submodule "AML-scRNAediting"]
 	path = AML-scRNAediting
