@@ -1,9 +1,9 @@
 [submodule "AML-miRNA-RNA-biomarker-discovery"]
 	path = AML-miRNA-RNA-biomarker-discovery
 	url = git@github.com:tjgu/AML-epitranscriptomic-biomarker-private.git
-[submodule "AML-scRNAediting"]
-	path = AML-scRNAediting
-	url = git@github.com:tjgu/AML-scRNAediting.git
+[submodule "CMML-scRNAediting"]
+	path = CMML-scRNAediting
+	url = git@github.com:tjgu/CMML-scRNAediting.git
 [submodule "AML-GWAS-Ordinal"]
 	path = AML-GWAS-Ordinal
 	url = git@github.com:tjgu/AML-GWAS-Ordinal.git
