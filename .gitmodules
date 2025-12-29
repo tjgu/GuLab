@@ -7,3 +7,6 @@
 [submodule "AML-GWAS-Ordinal"]
 	path = AML-GWAS-Ordinal
 	url = git@github.com:tjgu/AML-GWAS-Ordinal.git
+[submodule "SurvMarker"]
+	path = SurvMarker
+	url = git@github.com:tjgu/SurvMarker.git
