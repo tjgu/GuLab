@@ -10,3 +10,6 @@
 [submodule "SurvMarker"]
 	path = SurvMarker
 	url = git@github.com:tjgu/SurvMarker.git
+[submodule "SurvMOCA-GNN"]
+	path = SurvMOCA-GNN
+	url = git@github.com:tjgu/SurvMOCA-GNN.git
